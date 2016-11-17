@@ -1,0 +1,44 @@
+#menu {
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+}
+
+ul {
+  padding: 0px;
+  margin:0px;
+
+}
+
+li {
+  display: inline-block;
+
+}
+
+a{
+text-decoration: none;
+margin: 5px;
+}
+
+#menu a:hover{
+  color:#c2dd59;
+
+}
+
+body{
+  background-image:url(Bimage.jpg);
+  background-attachment:fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 178vh,175vw;
+}
+
+button{
+  display: block;
+  margin: auto;
+  position: relative;
+}
+
+#centre{
+  font-family: 'Nixie One', cursive;
+}

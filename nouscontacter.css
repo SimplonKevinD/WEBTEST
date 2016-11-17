@@ -1,0 +1,58 @@
+#menu {
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+}
+
+ul {
+  padding: 0px;
+  margin:0px;
+
+}
+
+li {
+  display: inline-block;
+
+}
+
+a{
+text-decoration: none;
+margin: 5px;
+}
+
+#menu a:hover{
+  color:#c2dd59;
+
+}
+
+
+#centretexte{
+  margin: 20%;
+  font-family: 'Nixie One', cursive;
+
+}
+
+form{
+
+
+}
+
+h1{
+  color:#c2dd59;
+}
+
+p{
+  text-align: left;
+}
+
+h1{
+  text-align: left;
+}
+
+form {
+    /* Pour le centrer dans la page */
+    margin: 0px 700px;
+    width: 200px;
+    /* Pour voir les limites du formulaire */
+    position: absolute;
+}

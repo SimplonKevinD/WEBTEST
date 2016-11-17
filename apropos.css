@@ -1,0 +1,52 @@
+#menu {
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+}
+
+ul {
+  padding: 0px;
+  margin:0px;
+
+}
+
+li {
+  display: inline-block;
+
+}
+
+a{
+text-decoration: none;
+margin: 5px;
+}
+
+#menu a:hover{
+  color:#c2dd59;
+}
+
+.image{
+
+  margin: -200px 500px;
+  width: 400px;
+  position: absolute;
+}
+}
+
+#texte{
+  float:left;
+  color: red;
+  position: absolute;
+}
+
+h1{
+  text-align: left;
+}
+
+p{
+  text-align: left;
+}
+
+#centre{
+  margin:20%;
+  font-family: 'Nixie One', cursive;
+}
